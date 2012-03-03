@@ -1,0 +1,18 @@
+{
+    "name": "excelwebzone/zend-search",
+    "description": "Zend Framework (Search Lucene)",
+    "keywords": ["zend framework", "oops"],
+    "homepage": "https://github.com/excelwebzone/zend-search",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael H. Arieli",
+            "email": "excelwebzone@gmail.com",
+            "homepage": "http://excelwebzone.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
