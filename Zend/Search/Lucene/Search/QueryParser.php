@@ -112,14 +112,14 @@ class QueryParser extends Lucene\AbstractFSM
      *
      * @var string
      */
-    private $_encoding;
+    private $_encoding = "utf-8";
 
     /**
      * Query string default encoding
      *
      * @var string
      */
-    private $_defaultEncoding = '';
+    private $_defaultEncoding =  "utf-8";
 
     /**
      * Defines query parsing mode.
